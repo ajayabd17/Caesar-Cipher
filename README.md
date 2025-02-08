@@ -1,7 +1,7 @@
 # Caesar-Cipher
 OTP Generator
 
-#Problem Statement
+# Problem Statement
 
 The advancement of digitalization has led to
 several opportunities for Hackers to steal data
@@ -18,7 +18,7 @@ message or email. From this program users
 will be able to easily generate OTP,s of
 different combinations like alphanumeric etc.
 
-#Procedure
+# Procedure
 
 ● Using user defined functions we receive
 string, process string, reassign it in order to
